@@ -1,0 +1,7 @@
+ABUSEIPDB_API="YOUR_API_KEY"
+LOG_FILE="/var/log/abuseipdb.log"
+MIKROTIK_HOST=""
+MIKROTIK_USER=""
+MIKROTIK_PASS=""
+MIKROTIK_BLOCKLIST=""
+PREVIOUS_BLOCKLIST_PATH=/etc/ITkha/mikrotik-abuseipdb/last_blocklist.txt
